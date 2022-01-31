@@ -1,2 +1,2 @@
 # Description
-Repository created for learning Data Engineering with Spark by DataBricks Plataform.
+Repository created for learn Data Engineering with Spark by DataBricks Plataform.
